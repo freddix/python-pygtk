@@ -3,7 +3,7 @@
 Summary:	Python bindings for GTK+ 2.x libraries
 Name:		python-%{module}
 Version:	2.24.0
-Release:	5
+Release:	6
 Epoch:		2
 License:	LGPL
 Group:		Libraries/Python
